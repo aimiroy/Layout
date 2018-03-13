@@ -1,0 +1,200 @@
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+c:\users\user\documents\visual studio 2015\Projects\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+C:\Users\Exp\Documents\Project\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\ApplicationInsights.config
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\csc.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Collections.Immutable.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\System.Reflection.Metadata.dll
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\vbc.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe
+E:\LayoutDesigner\LayoutDesigner\bin\roslyn\VBCSCompiler.exe.config
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll.config
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.dll
+E:\LayoutDesigner\LayoutDesigner\bin\LayoutDesigner.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.dll
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Agent.Intercept.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.Web.Infrastructure.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Mono.Security.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.dll
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.dll
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.dll
+E:\LayoutDesigner\LayoutDesigner\bin\BuisnessLayer.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\DataAccessLayer.pdb
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Autofac.Integration.Mvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.xml
+E:\LayoutDesigner\LayoutDesigner\bin\EntityFramework.SqlServer.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.DependencyCollector.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.Web.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.AI.WindowsServer.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.ApplicationInsights.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Newtonsoft.Json.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.xml
+E:\LayoutDesigner\LayoutDesigner\bin\Npgsql.EntityFramework.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Deployment.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Webpages.Razor.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Helpers.xml
+E:\LayoutDesigner\LayoutDesigner\bin\System.Web.Mvc.xml
+E:\LayoutDesigner\LayoutDesigner\bin\de\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\es\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\fi\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\fr\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\ja\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\bin\zh-CN\Npgsql.resources.dll
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.csprojResolveAssemblyReference.cache
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.dll
+E:\LayoutDesigner\LayoutDesigner\obj\Debug\LayoutDesigner.pdb
